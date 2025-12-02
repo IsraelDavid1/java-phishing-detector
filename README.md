@@ -50,7 +50,6 @@
     ```
 
 3. **Output Example**
-    - example output
     ```bash
     result confidence
     ------ ----------
